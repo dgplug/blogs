@@ -15,7 +15,7 @@ To create an issue,
 ---   
 
 ### Creating an Issue  
-![Creating an issue](images/issue-creation.png)  
+![Creating an issue](images/issue-creating.png)  
 
 ---  
 
